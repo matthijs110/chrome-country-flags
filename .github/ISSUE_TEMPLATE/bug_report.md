@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Create a report to help me improve the extention
+about: does not work with http://localhost:8800/
 title: ''
 labels: bug
 assignees: ''
@@ -8,20 +8,18 @@ assignees: ''
 ---
 
 **Describe the bug**
-A clear and concise description of what the bug is.
+
+running dokuwiki on a stick which uses http://localhost:8800/, the flags are not shown only the letters as usual; otherwise it works.
 
 **To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+-
 
 **Screenshots**
-If applicable, add screenshots to help explain your problem.
+-
 
 **Chrome version:**
-What version of Chrome did you use? 
+ 128.0.2739.79 (64-Bit)
 
 **Additional context**
-Add any other context about the problem here.
+
+
