@@ -5,7 +5,7 @@ const replacementFontName = "Twemoji Country Flags";
 const extentionStyleTagId = "country-flag-fixer-ext";
 
 // Logging settings
-const logsEnabled = true;
+const logsEnabled = false;
 const logPrefix = "[FLAG-FIXER]";
 let runCount = 0;
 
