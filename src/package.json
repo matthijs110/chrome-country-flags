@@ -1,6 +1,6 @@
 {
   "name": "chrome-country-flags",
-  "version": "2.0.2",
+  "version": "2.1.0",
   "description": "Replaces mysterious abbreviations automatically with the corresponding flag. The solution for Chromium users on Windows!",
   "repository": {
     "type": "git",

@@ -7,12 +7,14 @@
     "content_scripts": [
         {
             "matches": ["<all_urls>"],
+            "exclude_matches": ["*://www.youtube.com/*", "*://www.linkedin.com/*"],
             "js": ["content_head.js"],
             "run_at": "document_idle",
             "all_frames": true
         },
         {
             "matches": ["<all_urls>"],
+            "exclude_matches": ["*://www.youtube.com/*", "*://www.linkedin.com/*"],
             "js": ["content.js"],
             "run_at": "document_start",
             "all_frames": true
